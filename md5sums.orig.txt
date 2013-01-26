@@ -1,0 +1,4 @@
+8f5bfc88eb8cf57347893083096dfa28  semplice-archive-keyring.emily.gpg
+21064c67e1012f5aca26a709bf48e570  semplice-archive-keyring.rocks.gpg
+3f7ee91d69b15c8a88d178fc1f7e104f  semplice-archive-keyring.pulse.gpg
+da600e86b0f8b1cba724353ef95cca0f  semplice-archive-keyring.current.gpg

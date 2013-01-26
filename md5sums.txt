@@ -1,0 +1,24 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+8f5bfc88eb8cf57347893083096dfa28  semplice-archive-keyring.emily.gpg
+21064c67e1012f5aca26a709bf48e570  semplice-archive-keyring.rocks.gpg
+3f7ee91d69b15c8a88d178fc1f7e104f  semplice-archive-keyring.pulse.gpg
+da600e86b0f8b1cba724353ef95cca0f  semplice-archive-keyring.current.gpg
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1.4.12 (GNU/Linux)
+
+iQIcBAEBCAAGBQJRBAvyAAoJEC81ZriCOefyP7wP/0+/3R9CCMxtyF6DsRP3af84
+/btztGiVJFUW1a5z8s+J6PeueXZLnPHCXDJjJuChL2kecoCwHsEWnvV9h/XcLE0Q
+QL7HV7IQ0CPwutuMNmr/GYKz+qRaWu491KUU78tecMxFso2cfuoyB9Yoe0EAcx0R
+OTEyv3P+wHYXmXEqR8JTrd9v39kSGlgHvob9uBy2bMLifjIBzPxrOzfeCURXpTQx
+36fhPy2tWI2U51qy26Wls6Vu1i6tbol+IDnfnY1spU9P82rjPECeWdrnd5ML4u4F
+DcsN7KcZ20qhqzn9/sddk5CCTQLS3xbZYRoN1RThpBIR1KsGH2IV6FuQx3vXtoPR
+zZIeMvkMrM02O6yo6flNXeiCAkelrKaY5oRfTcnLTjd8I/v0MyWDPO0JB3YTvkhW
+ajYjD++UCy1is4WyylWRXKzfRvyPFQu+ye5kSDMQX+oQBFlvxn04Wsh1g4jfYApW
+2mTX7ppInt8M/MFKCSLORLQlcC1lkTGPkoJ2MOk+geEmfWnKplwx/LvgiJUwtRij
+Ztq4VhfybjRSL702RkEUJ6yCrk8b8uPoNzOY2qa8r5rICBn3RQm3U2g2y2mC4V4E
+MbcKjP3fdzMTxKG/fgO5szfRSmPfcuSjtEIxNO4Eg6t81+o1DjVfmXExpf+O41U1
+Tv+5/fESOIlszo0Ff23C
+=Wh3I
+-----END PGP SIGNATURE-----

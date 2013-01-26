@@ -1,0 +1,45 @@
+semplice-archive-keyring (2013.01.26) unstable; urgency=low
+
+  * Added new 'current' key
+  * Do not register rocks and emily keys even if we still ship them.
+
+ -- Eugenio Paolantonio (g7) <me@medesimo.eu>  Sat, 26 Jan 2013 18:05:39 +0100
+
+semplice-archive-keyring (2011.12.25.1) pulse; urgency=low
+
+  * Actually install the new key.
+
+ -- Eugenio Paolantonio (g7) <me@medesimo.eu>  Tue, 03 Jan 2012 12:31:19 +0100
+
+semplice-archive-keyring (2011.12.25) pulse; urgency=low
+
+  * Added key 3D43DCB1 for pulse.
+  * Changed maintainer to match my new GPG key.
+  * Bumped to Standards-Version 3.9.2.
+  * New-style, simpler, rules.
+
+ -- Eugenio Paolantonio (g7) <me@medesimo.eu>  Tue, 03 Jan 2012 12:04:08 +0100
+
+semplice-archive-keyring (2011.03.09+pulse0) pulse; urgency=low
+
+  * Initial release for pulse.
+
+ -- Eugenio Paolantonio (g7) <me@medesimo.eu>  Tue, 01 Nov 2011 10:32:26 +0100
+
+semplice-archive-keyring (2011.03.09) emily; urgency=low
+
+  * Added key 88AE995D for emily.
+
+ -- Eugenio (g7) <morarossa@gmail.com>  Fri, 15 Apr 2011 20:32:20 +0200
+
+semplice-archive-keyring (2010.05.22.1) unstable; urgency=low
+
+  * Added semplice-archive-keyring-udeb.
+
+ -- Eugenio (g7) <morarossa@gmail.com>  Mon, 16 Aug 2010 18:15:22 +0200
+
+semplice-archive-keyring (2010.05.22) unstable; urgency=low
+
+  * Initial Release.
+
+ -- Eugenio (g7) <morarossa@gmail.com>  Sat, 22 May 2010 19:00:12 +0000

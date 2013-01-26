@@ -1,0 +1,22 @@
+Source: semplice-archive-keyring
+Section: misc
+Priority: important
+Maintainer: Eugenio Paolantonio (g7) <me@medesimo.eu>
+Build-Depends: debhelper (>= 7.0.50~)
+Standards-Version: 3.9.2
+Homepage: http://semplice-linux.sourceforge.net
+
+Package: semplice-archive-keyring
+Architecture: all
+Depends: gnupg (>= 1.0.6-4)
+Description: GPG archive key for Semplice repository
+ This package provide the digital key for authenticate
+ Semplice's repository.
+
+Package: semplice-archive-keyring-udeb
+XC-Package-Type: udeb
+Architecture: all
+Recommends: gpgv-udeb
+Description: GPG archive key for Semplice repository (installer version)
+ This package provide the digital key for authenticate
+ Semplice's repository in debian-installer.
