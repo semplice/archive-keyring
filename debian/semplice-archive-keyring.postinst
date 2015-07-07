@@ -21,8 +21,9 @@ set -e
 case "$1" in
     configure)
     if [ -x /usr/bin/apt-key ]; then
-        apt-key add /usr/share/keyrings/semplice-archive-keyring.current.gpg
-	    apt-key add /usr/share/keyrings/semplice-archive-keyring.pulse.gpg
+	    apt-key add /usr/share/keyrings/semplice-archive-keyring.jethro.gpg
+	    apt-key add /usr/share/keyrings/semplice-archive-keyring.current.gpg
+	    #apt-key add /usr/share/keyrings/semplice-archive-keyring.pulse.gpg
 	    #apt-key add /usr/share/keyrings/semplice-archive-keyring.emily.gpg
 	    #apt-key add /usr/share/keyrings/semplice-archive-keyring.rocks.gpg
 	    apt-key update

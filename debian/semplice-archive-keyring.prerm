@@ -20,8 +20,9 @@ set -e
 case "$1" in
 	remove|purge)
 		if [ -x /usr/bin/apt-key ]; then
-            apt-key del 8239E7F2 #current
-			apt-key del 3D43DCB1 #pulse
+			apt-key del 58C1DDB2 #jethro
+			apt-key del 8239E7F2 #current
+			#apt-key del 3D43DCB1 #pulse
 			#apt-key del 4378AD51 #rocks
 			#apt-key del 88AE995D #emily
 		fi;;
